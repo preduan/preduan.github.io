@@ -1,0 +1,35 @@
+
+#mother{
+    position: absolute;
+   /* color: red;
+    background-color: #99004d;
+    text-shadow: 1px 3px 1px white; 
+    border: 6px solid black;*/
+    width: 600px;
+    left: 300px;
+    top: 100px;
+    font-size: 20px;
+    font-family: Helvetica;
+    text-align: left;
+}
+
+#forest{
+    position: fixed;
+    bottom: 200px;
+    right: 0px;
+    width: 400px;
+    opacity: .6;
+}
+
+#rabbits{
+    position: fixed;
+    top: 30px;
+    left: 0px;
+    width: 300px;
+    opacity: .6;
+    border-radius: 15px 50px 30px 5px;
+}
+
+body{
+    background-color: antiquewhite;
+}
